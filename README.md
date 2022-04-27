@@ -1,6 +1,6 @@
 
 # Team Profile Generator 
-https://github.com/sirmojosodope/Team Profile Generator 
+ https://github.com/sirmojosodope/Team-Profile-Generator- 
 # Description 
 Generates a Team Profile with profiles of Manager, Intern, and Engineer.
 
