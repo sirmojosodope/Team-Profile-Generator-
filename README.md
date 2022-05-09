@@ -24,4 +24,5 @@ Contributors: Lamont
 The following is needed to run the test: Node index.js
 # Questions 
 If you have any questions about the reportError, open an issue or contact stoverlee29@gmail.com
-![Screenshot (18)](https://user-images.githubusercontent.com/97686342/165637653-d447a296-1c93-4dcf-a71f-bc201c75c834.png)
+
+![Untitled_ May 9, 2022 7_16 PM](https://user-images.githubusercontent.com/97686342/167513710-6598087d-f42d-4a5c-bb26-055ad9b71ed5.gif)
