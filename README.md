@@ -26,3 +26,6 @@ The following is needed to run the test: Node index.js
 If you have any questions about the reportError, open an issue or contact stoverlee29@gmail.com
 
 ![Untitled_ May 9, 2022 7_16 PM](https://user-images.githubusercontent.com/97686342/167513710-6598087d-f42d-4a5c-bb26-055ad9b71ed5.gif)
+
+Youtube Walkthrough !
+https://youtu.be/R1HEH_i5axs
